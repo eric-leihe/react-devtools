@@ -7,6 +7,7 @@
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "adm-zip": "^0.4.7",
+    "ajv": "6.6.1",
     "babel-core": "^7.0.0-bridge",
     "babel-eslint": "6",
     "babel-jest": "^23.6.0",
@@ -74,6 +75,6 @@
     "chrome-launch": "^1.1.4",
     "firefox-profile": "^1.0.2",
     "lerna": "^2.8.0",
-    "web-ext": "^1.10.1"
+    "web-ext": "2.9.2"
   }
 }
